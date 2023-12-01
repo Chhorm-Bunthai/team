@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "authentication-with-team",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
